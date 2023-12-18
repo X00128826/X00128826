@@ -1,0 +1,129 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: #000000; /* Text colour */
+  background-color: white; 
+}
+
+.topics {
+  padding: 2rem;
+  margin: 0rem;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: yellow;
+  align-items: baseline;
+}
+
+#we2 img{
+  padding-left: 5%;
+}
+
+#we2 ul{
+  padding-left: 25%;
+}
+
+#we2 h5{
+  padding-left: 15%;
+}
+
+.card-body p{
+  padding: .5%;
+  padding-top: 1;
+}
+
+.card-body ul li{
+  padding: .5%;
+}
+
+.carousel-item img{
+  max-width: 75%; 
+  height: auto; 
+  margin: 0 auto;
+}
+
+h4 {
+  padding-bottom: 1em;
+}
+
+.groove{
+  padding-top: 1em;
+  border-style: groove;
+
+}
+
+#groove{
+  padding: 0.5em;
+}
+
+
+section.hero{
+  text-align: center;
+  padding-top: 5em;
+}
+
+section.hero img{
+  width: 20%;
+  height: 20%;
+}
+
+.box.text-center{
+  padding-top: 1em;
+}
+
+section {
+  padding: 10px;
+  margin: 0; 
+}
+
+section {
+  background-color: rgb(229, 228, 228); 
+}
+
+#linkedin{
+  width: 10%;
+  height: 10%;
+  padding-right: 1.5em;
+}
+
+#gmail{
+  width: 10%;
+  height: 10%;
+  padding-left: 1.5em;
+}
+
+#contactMe{
+  text-align: center;
+}
+
+.modal-body{
+  width: 75%;
+  text-align: right;
+}
+
+footer p{
+  padding-left: 1em;
+}
+
+#interests{
+  text-align: center;
+
+}
+
+.card {
+  display:inline-block;
+  transition: all 0.4s;
+  text-align: center;
+}
+
+.card:hover{
+  transform: scale(1.15);
+}
+
+h4{
+  text-align: center;
+}
